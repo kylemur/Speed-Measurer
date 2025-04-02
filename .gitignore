@@ -1,0 +1,34 @@
+# STM32CubeMX generated files
+*.ioc
+*.log
+
+# Build directories
+/Debug/
+/Release/
+/build/
+
+# Object files, static and dynamic libs
+*.o
+*.a
+*.so
+*.d
+
+# Executable files
+*.elf
+*.bin
+*.hex
+*.map
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# IDE specific files
+.vscode/
+*.launch
+*.settings/
+*.cproject
+*.project
+*.mxproject
+*.mxsettings
