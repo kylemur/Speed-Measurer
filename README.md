@@ -11,7 +11,7 @@ The Speed-Measurer was inspired by school zone speed displays and serves as a le
   - LED brightness set to 10% if an object is moving over 80% of the speed limit but not speeding.
   - LED brightness set to 100% if an object exceeds the speed limit.
 
-[Watch the Software Demo Video](https://www.youtube.com)
+[Watch the Demo Video](https://youtu.be/gJejNBANL6w)
 
 ## Development Environment
 The project was developed using the following tools and techniques:
